@@ -7,13 +7,13 @@
 На тестирование затрачено: 1 час
 
 В результате тестирования выявлены следующие дефекты:
-* https://----------------------------
+* [Приложение Money Transfer не проводит операцию пополнения счёта, если исходная сумма получается 2 147 483 647 и выше](https://github.com/Kirill-51/MoneyTransfer/issues/1#issue-823583377)
 
 ## Описание процесса тестирования
 
 В процессе тестирования использовались следующие артефакты:
-* [Money Transfer](https://github.com/netology-code/javaqa-homeworks/blob/master/intro/idea.md)
-* [Домашнее задание к занятию «1.1. Введение в Java: JDK, JRE, JVM, IntelliJ IDEA»](https://github.com/netology-code/javaqa-homeworks/tree/master/intro)
+* [Money Transfer](https://github.com/Kirill-51/MoneyTransfer/blob/master/src/Main.java)
+* [Домашнее задание к занятию «1.2. Программирование на Java: переменные, операторы, работа с отладчиком»](https://github.com/netology-code/javaqa-homeworks/tree/master/programming)
 
 
 
